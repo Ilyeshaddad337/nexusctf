@@ -1,6 +1,6 @@
 import requests
 
-url = "http://nexus-security.club:8001/fetch"
+url = "http://192.168.64.2:5000/fetch"
 payload = {
     "url": "https://raw.githubusercontent.com/Ilyeshaddad337/nexusctf/refs/heads/main/sol.svg"
 }
